@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Faded",
+  "base_artist": "Alan Walker",
+  "createdAt": "2026-03-12T09:38:07.455392Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/01_Faded_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Faded On Me",
+      "artist": "Alexander Ludwig",
+      "has_synced": false,
+      "path": "select/02_Faded_On_Me_Alexander_Ludwig.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Faded On Me",
+      "artist": "Alexander Ludwig",
+      "has_synced": false,
+      "path": "select/03_Faded_On_Me_Alexander_Ludwig.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Big Dreams and Faded Jeans",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/04_Big_Dreams_and_Faded_Jeans_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Faded Love",
+      "artist": "Bob Wills & His Texas Playboys",
+      "has_synced": false,
+      "path": "select/05_Faded_Love_Bob_Wills_&_His_Texas_Playboys.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/06_Faded_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fat Faded Fuck Face",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/07_Fat_Faded_Fuck_Face_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Faded",
+      "artist": "future",
+      "has_synced": false,
+      "path": "select/08_Faded_future.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Faded",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/09_Faded_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Faded",
+      "artist": "Sigma feat. LOWES & U137",
+      "has_synced": true,
+      "path": "select/10_Faded_Sigma_feat._LOWES_&_U137.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Faded",
+      "artist": "Sigma",
+      "has_synced": true,
+      "path": "select/11_Faded_Sigma.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feeling Faded (feat. Project Pat & Wiz Khalifa)",
+      "artist": "Juicy J, Ty Dolla $ign, Wiz Khalifa & Project Pat",
+      "has_synced": false,
+      "path": "select/12_Feeling_Faded_(feat._Project_Pat_&_Wiz_Khalifa)_Juicy_J,_Ty_Dolla_$ign,_Wiz_Khalifa_&_Project_Pat.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feeling Faded (ft. Project Pat & Wiz Khalifa)",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/13_Feeling_Faded_(ft._Project_Pat_&_Wiz_Khalifa)_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Faded",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/14_Faded_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Faded",
+      "artist": "The Hundred In the Hands",
+      "has_synced": true,
+      "path": "select/15_Faded_The_Hundred_In_the_Hands.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/pl_01_Faded_Alan_Walker.txt"
+    }
+  ]
+}
